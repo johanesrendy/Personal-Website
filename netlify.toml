@@ -1,4 +1,0 @@
-[[redirects]]
-from = "./src/index.html"
-to = "./*"
-status = 200
